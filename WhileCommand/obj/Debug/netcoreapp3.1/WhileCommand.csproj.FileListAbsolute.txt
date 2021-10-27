@@ -1,0 +1,13 @@
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\obj\Debug\netcoreapp3.1\WhileCommand.csprojAssemblyReference.cache
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\obj\Debug\netcoreapp3.1\WhileCommand.AssemblyInfoInputs.cache
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\obj\Debug\netcoreapp3.1\WhileCommand.AssemblyInfo.cs
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\obj\Debug\netcoreapp3.1\WhileCommand.csproj.CoreCompileInputs.cache
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\bin\Debug\netcoreapp3.1\WhileCommand.exe
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\bin\Debug\netcoreapp3.1\WhileCommand.deps.json
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\bin\Debug\netcoreapp3.1\WhileCommand.runtimeconfig.json
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\bin\Debug\netcoreapp3.1\WhileCommand.runtimeconfig.dev.json
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\bin\Debug\netcoreapp3.1\WhileCommand.dll
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\bin\Debug\netcoreapp3.1\WhileCommand.pdb
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\obj\Debug\netcoreapp3.1\WhileCommand.dll
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\obj\Debug\netcoreapp3.1\WhileCommand.pdb
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\Atv AMS em grupo\WhileCommand\obj\Debug\netcoreapp3.1\WhileCommand.genruntimeconfig.cache
